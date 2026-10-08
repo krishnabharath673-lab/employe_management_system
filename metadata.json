@@ -1,0 +1,6 @@
+{
+  "name": "Employee Management System",
+  "description": "HR CRUD Operations with Department Filters - Full-stack B.Tech Computer Science & IT Project featuring Node.js, Express REST APIs, MySQL relational schema, and React.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
